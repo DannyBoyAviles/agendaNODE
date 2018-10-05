@@ -1,0 +1,10 @@
+1.- ejecutar comando en consola: npm start
+2.- en localhost:3000, presiona "IMPORTAR USUARIO" para crear la BD y el USUARIO
+4.- Usuario: nextu@email.com -> usuario session 
+5.- Password: 123 
+6.- Crear 2 o mas eventos (uno con fin definido en 2 o mas dias y otro con dia completo selecionado)
+ACTUALIZA PARA VERIFICAR LA CONSULTA DEL SERVIDOR
+7.- Eliminar o Actualizar los eventos generados
+ACTUALIZA PARA VERIFICAR LA CONSULTA DEL SERVIDOR
+8.- Cerrar SESSION 
+9.- intentar ingresar con un usuaro diferente para verificar si existe en la BD.
